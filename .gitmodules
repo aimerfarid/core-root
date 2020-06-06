@@ -1,0 +1,6 @@
+[submodule "packages/core-node"]
+	path = packages/core-node
+	url = https://github.com/aimerfarid/core-node
+[submodule "packages/core-tooling"]
+	path = packages/core-tooling
+	url = https://github.com/aimerfarid/core-tooling
