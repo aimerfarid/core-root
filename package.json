@@ -1,7 +1,13 @@
 {
   "name": "core-root",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Emir Rodzi <emirfarid@ifca.com.my>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.0"
+  }
 }
