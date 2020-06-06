@@ -1,0 +1,7 @@
+{
+  "name": "core-root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emir Rodzi <emirfarid@ifca.com.my>",
+  "license": "MIT"
+}
